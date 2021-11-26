@@ -15,7 +15,7 @@
     min-height: 100vh;
     font-family: 'Open Sans', sans-serif;
     /* background: url(https://source.unsplash.com/1600x900/?city,weather,skyscrapers) no-repeat ; */
-    background: linear-gradient(rgba(31, 30, 30, 0.5), rgba(27, 27, 27, 0.5)), url('https://source.unsplash.com/1600x900/?city,weather,skyscrapers');
+    background: linear-gradient(rgba(31, 30, 30, 0.5), rgba(27, 27, 27, 0.5)), url('https://source.unsplash.com/1600x900/?city,weather,skyscrapers') no-repeat;
 }
 
 .card {
